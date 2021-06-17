@@ -1,0 +1,22 @@
+Como trabalhar em Equipe no GitHub
+
+[ ] Fazer um fork do repositório
+	*pelo propio github no diretorio do master
+
+[ ] Clonar o repositório
+	git clone https://github.com/Evandro-Ladislau/Code_Vendas.git
+
+[ ] Abrir o projeto na sua maquina no editor de preferencia
+	*abrir o projeto no editor de codigo
+
+[ ] Criar uma branch sua
+	com o git no repositorio clonado criar dar um  " git branch 'nomedobrench"
+
+e depois entrar nesse branch "git checkout 'nome do branch'
+
+[ ] Fazer modificações e empurrar para a sua branch
+	depois das modificações dar um 'git add .'
+para adicionar os arquivos alterados e depois dar um git push origin 'nome do branch' par jogar no remoto
+
+[ ] Fazer o pull request para o dono do repositório
+	no git fazer um pull request e aguardar a alteração.
