@@ -56,10 +56,6 @@ Cinza-claro: #eeecec
 [FontsGoogle](https://fonts.google.com/icons?selected=Material+Icons+Outlined)
 
 ## Desenvolvedores
-Também pode me enviar um feedback pelo [LinkedIn](https://www.linkedin.com/in/magdielndantas)!
-
-Desafio criado por [Magdiel Dantas](https://github.com/magdielndantas)
-
 <p align="center">
   <a href="https://github.com/AndersonJean">Anderson</a> | 
   <a href="https://github.com/DanielScharp">Daniel</a>
