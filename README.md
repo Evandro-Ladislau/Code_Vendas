@@ -58,6 +58,6 @@ Cinza-claro: #eeecec
 ## Desenvolvedores
 <p align="center">
   <a href="https://github.com/AndersonJean">Anderson</a> | 
-  <a href="https://github.com/DanielScharp">Daniel</a>
+  <a href="https://github.com/DanielScharp">Daniel</a> | 
   <a href="https://github.com/Evandro-Ladislau">Evandro</a>
 </p>
